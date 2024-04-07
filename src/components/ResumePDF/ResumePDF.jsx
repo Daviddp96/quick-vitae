@@ -241,7 +241,7 @@ const ResumePDF = ({
                         {/* Section Title */}
                         <View style={[styles.sectionTitleContainer, {paddingLeft: 25}]}>
                             <Text style={[styles.sectionTitleDecoration, {backgroundColor: colors.sectionDecorationColor}]}></Text>
-                            <Text style={[styles.sectionTitleText, {color: colors.sectionTitleColor}]}>{currentLanguage === 'english' ? 'Experience' : 'Experiencia laboral'}</Text>
+                            <Text style={[styles.sectionTitleText, {color: colors.sectionTitleColor}]}>Experience</Text>
                         </View>
                         {/* Section Data */}
                         {experiences.map((experience, index) => (
