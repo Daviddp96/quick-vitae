@@ -8,11 +8,7 @@ Build a polished CV in minutes. Made with React.
 <br>
   <p>
     ❯ &nbsp;
-    <a href="https://github.com/Daviddp96/quick-vitae">View Demo</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/Daviddp96/quick-vitae/issues">Report Bug</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/Daviddp96/quick-vitae/issues">Request Feature</a>
+    <a href="quick-vitae.vercel.app">View Demo</a>
      &nbsp; ❮
   </p>
 </div>
