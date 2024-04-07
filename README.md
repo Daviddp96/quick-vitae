@@ -8,7 +8,7 @@ Build a polished CV in minutes. Made with React.
 <br>
   <p>
     ❯ &nbsp;
-    <a href="quick-vitae.vercel.app">View Demo</a>
+    <a href="https://quick-vitae.vercel.app/">View Demo</a>
      &nbsp; ❮
   </p>
 </div>
@@ -23,6 +23,11 @@ Build a polished CV in minutes. Made with React.
 
 ## Project Overview
 
+- This project was made to practice React fundamentals.
+
+## Future Versions
+
+- Customize CV design
 
 <br>
 
